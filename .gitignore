@@ -21,3 +21,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea/
+temp*.json
+temp*.js
+.env
+appsettings.json
+dockerfile
+**/.devcontainer
+bin
+obj
+**/Properties
+launch.json
+tasks.json
